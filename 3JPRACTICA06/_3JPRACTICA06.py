@@ -1,5 +1,5 @@
-#PRACTICA 06
-#EDUARDO VELAZQUEZ
+#PRACTICA06
+#EDUARDOVELAZQUEZ
 
 #Declara una lista de cadenas
 aves=["Loro gris","Paloma de diamante","Coctel"]
